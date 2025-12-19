@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Projects](https://img.shields.io/badge/projects-12-orange?style=for-the-badge)
+![Projects](https://img.shields.io/badge/projects-9%20complete-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 **A curated collection of clean, well-documented Python projects for beginners and junior developers**
@@ -102,25 +102,25 @@ This repository contains a carefully selected collection of Python projects desi
 
 <tr>
 <td align="center">08</td>
-<td><strong>Calculator</strong></td>
-<td>Full-featured calculator with operation history, memory functions, and continuous calculations</td>
-<td>Functions, Recursion, Error handling</td>
-<td align="center">🔄</td>
+<td><strong>Guess the Number</strong></td>
+<td>Number guessing game with three difficulty levels, directional hints, and modular ASCII logo</td>
+<td>While loops, Random, Modular design</td>
+<td align="center">✅</td>
 </tr>
 
 <tr>
 <td align="center">09</td>
-<td><strong>Blackjack</strong></td>
-<td>Casino-style card game with authentic dealer AI, betting system, and game statistics</td>
-<td>OOP concepts, Game logic, Lists</td>
-<td align="center">🔜</td>
+<td><strong>Calculator</strong></td>
+<td>Full-featured calculator with basic arithmetic operations and continuous calculation mode</td>
+<td>Functions, Recursion, Dictionaries</td>
+<td align="center">✅</td>
 </tr>
 
 <tr>
 <td align="center">10</td>
-<td><strong>Guess the Number</strong></td>
-<td>Number guessing game with difficulty levels, limited attempts, and performance tracking</td>
-<td>While loops, Binary search logic</td>
+<td><strong>Blackjack</strong></td>
+<td>Casino-style card game with authentic dealer AI, betting system, and game statistics</td>
+<td>OOP concepts, Game logic, Lists</td>
 <td align="center">🔜</td>
 </tr>
 
@@ -217,6 +217,16 @@ Small-Python-Projects/
 │   ├── README.md
 │   └── art.py
 │
+├── guess-the-number/
+│   ├── main.py
+│   ├── logo.py          # Separate logo module
+│   └── README.md
+│
+├── calculator/
+│   ├── main.py
+│   ├── art.py           # ASCII art (if applicable)
+│   └── README.md
+│
 └── ... (more projects)
 ```
 
@@ -249,17 +259,17 @@ These projects are organized by complexity to support progressive learning:
 - Rock Paper Scissors
 - Password Generator
 
-### 🚀 **Elementary** (Projects 5-8)
+### 🚀 **Elementary** (Projects 5-9)
 **Focus:** Functions, lists, dictionaries, algorithms
 - Hangman
 - Caesar Cipher
 - Blind Auction
+- Guess the Number
 - Calculator
 
-### 💎 **Intermediate** (Projects 9-12)
+### 💎 **Intermediate** (Projects 10-12)
 **Focus:** OOP, complex logic, data structures
 - Blackjack
-- Guess the Number
 - Higher-Lower Game
 - Coffee Machine
 
@@ -279,6 +289,7 @@ By completing these projects, you'll gain practical experience with:
 - ✅ **Error Handling** — Try/except blocks
 - ✅ **Algorithms** — Searching, sorting, encryption
 - ✅ **Best Practices** — Code organization, documentation, testing
+- ✅ **Modular Design** — Separating concerns and importing modules
 
 ---
 
@@ -293,25 +304,30 @@ Recommended tools for working with these projects:
 
 ---
 
-## 📈 Roadmap
+## 📈 Goals & Roadmap
 
-### Current Phase (Q4 2025 - Q1 2026)
-- [x] Complete projects 1-7
-- [x] Add comprehensive documentation
-- [x] Implement error handling
-- [ ] Complete Calculator project
+### **Q4 2025 (Current - Dec 2025)**
+- [x] Create professional GitHub profile
+- [x] Complete 9 Python projects
+- [x] Finish Guess the Number project
+- [x] Complete Calculator project
+- [ ] Finish all 12 Small Python Projects by year end
 - [ ] Complete Blackjack project
-- [ ] Finish remaining 3 projects
+- [ ] Master Python OOP concepts
 
-### Future Enhancements
-- [ ] Add unit tests for all projects
-- [ ] Create video tutorials
-- [ ] Add GUI versions of CLI projects
-- [ ] Implement difficulty settings for games
-- [ ] Add save/load functionality where applicable
+### **Q1 2026 (Jan - Mar)**
+- [ ] Start Intermediate-Python-Projects repository
+- [ ] Build 3+ projects with APIs and databases
+- [ ] Learn Flask or Django framework basics
+- [ ] Continue SoftUni courses
+- [ ] Create personal portfolio website
 
-### Next Repository
-- [ ] **Intermediate-Python-Projects** — API integration, databases, web frameworks
+### **Q2-Q4 2026 (Apr - Dec)**
+- [ ] Build 5+ intermediate/advanced projects
+- [ ] Contribute to open source projects
+- [ ] Master data structures & algorithms
+- [ ] Complete SoftUni program
+- [ ] **Land first junior developer position** 🎯
 
 ---
 
@@ -354,6 +370,8 @@ MIT License - Free to use, modify, and distribute
 - 📍 Location: Sofia, Bulgaria
 - 💼 GitHub: [@yoan9601](https://github.com/yoan9601)
 - 📸 Instagram: [@yoan.boyadzhiev](https://www.instagram.com/yoan.boyadzhiev/)
+- 📧 Email: yoan.boyadzhiev1@gmail.com
+- 🎓 Education: SoftUni Student
 - 🎯 Focus: Learning Python & Building Portfolio
 
 ---
@@ -361,6 +379,7 @@ MIT License - Free to use, modify, and distribute
 ## 🙏 Acknowledgments
 
 - **Angela Yu** — 100 Days of Code Python course inspiration
+- **SoftUni** — Providing excellent programming education
 - **Python Community** — Excellent documentation and resources
 - **Open Source Contributors** — For tools and libraries used
 - **Stack Overflow** — Problem-solving and learning resource
@@ -372,7 +391,8 @@ MIT License - Free to use, modify, and distribute
 Have questions, suggestions, or feedback?
 
 - 💬 Open an [Issue](https://github.com/yoan9601/Small-Python-Projects/issues)
-- 📧 Connect via Instagram
+- 📧 Email: yoan.boyadzhiev1@gmail.com
+- 📸 Instagram: [@yoan.boyadzhiev](https://www.instagram.com/yoan.boyadzhiev/)
 - ⭐ Star this repository if you find it helpful!
 
 ---
@@ -387,6 +407,8 @@ Have questions, suggestions, or feedback?
 [![GitHub forks](https://img.shields.io/github/forks/yoan9601/Small-Python-Projects?style=social)](https://github.com/yoan9601/Small-Python-Projects/network/members)
 
 ---
+
+**Last Updated:** November 29, 2025
 
 **[⬆ Back to Top](#-small-python-projects)**
 
