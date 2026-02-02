@@ -306,31 +306,16 @@ Recommended tools for working with these projects:
 
 ## 📈 Roadmap
 
-### **Q1 2026 (Jan - Mar)** — Foundation Complete
-- [x] Complete SoftUni Python Advanced course
+### **Q1 2026 (Jan - Mar)** — Complete & Polish
 - [x] Complete Blackjack project with documentation
 - [ ] Complete Higher-Lower Game project
 - [ ] Complete Coffee Machine (OOP) project
 - [ ] Finish all 12 Small Python Projects
 - [ ] Refactor and polish all projects
 
-### **Q2 2026 (Apr - Jun)** — Intermediate Level
-- [ ] Start Intermediate-Python-Projects repository
-- [ ] Build 5+ intermediate projects with APIs
-- [ ] Learn database integration (SQLite/PostgreSQL)
-- [ ] Explore web frameworks (Flask/Django basics)
+---
 
-### **Q3 2026 (Jul - Sep)** — Advanced Projects
-- [ ] Build 3 advanced full-stack projects
-- [ ] Implement authentication and security
-- [ ] Deploy projects to cloud platforms
-- [ ] Contribute to open source
-
-### **Q4 2026 (Oct - Dec)** — Career Ready
-- [ ] Complete SoftUni Python education program
-- [ ] Build comprehensive portfolio website
-- [ ] Master data structures & algorithms
-- [ ] **Land first junior developer position** 🎯
+*For my full 2026 development roadmap, visit my [GitHub Profile](https://github.com/yoan9601)*
 
 ---
 
