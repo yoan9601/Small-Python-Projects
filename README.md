@@ -306,7 +306,7 @@ Recommended tools for working with these projects:
 
 ## 📈 Roadmap
 
-### **Q1 2026 (Jan - Mar)** — Complete & Polish
+### **Q1-Q2 2026 (Jan - Jun)** — Complete & Polish
 - [x] Complete Blackjack project with documentation
 - [ ] Complete Higher-Lower Game project
 - [ ] Complete Coffee Machine (OOP) project
