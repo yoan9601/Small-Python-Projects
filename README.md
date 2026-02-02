@@ -4,7 +4,7 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![Projects](https://img.shields.io/badge/projects-9%20complete-orange?style=for-the-badge)
+![Projects](https://img.shields.io/badge/projects-10%20complete-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
 
 **A curated collection of clean, well-documented Python projects for beginners and junior developers**
@@ -121,7 +121,7 @@ This repository contains a carefully selected collection of Python projects desi
 <td><strong>Blackjack</strong></td>
 <td>Casino-style card game with authentic dealer AI, betting system, and game statistics</td>
 <td>OOP concepts, Game logic, Lists</td>
-<td align="center">🔜</td>
+<td align="center">✅</td>
 </tr>
 
 <tr>
@@ -304,29 +304,32 @@ Recommended tools for working with these projects:
 
 ---
 
-## 📈 Goals & Roadmap
+## 📈 Roadmap
 
-### **Q4 2025 (Current - Dec 2025)**
-- [x] Create professional GitHub profile
-- [x] Complete 9 Python projects
-- [x] Finish Guess the Number project
-- [x] Complete Calculator project
-- [ ] Finish all 12 Small Python Projects by year end
-- [ ] Complete Blackjack project
-- [ ] Master Python OOP concepts
+### **Q1 2026 (Jan - Mar)** — Foundation Complete
+- [x] Complete SoftUni Python Advanced course
+- [x] Complete Blackjack project with documentation
+- [ ] Complete Higher-Lower Game project
+- [ ] Complete Coffee Machine (OOP) project
+- [ ] Finish all 12 Small Python Projects
+- [ ] Refactor and polish all projects
 
-### **Q1 2026 (Jan - Mar)**
+### **Q2 2026 (Apr - Jun)** — Intermediate Level
 - [ ] Start Intermediate-Python-Projects repository
-- [ ] Build 3+ projects with APIs and databases
-- [ ] Learn Flask or Django framework basics
-- [ ] Continue SoftUni courses
-- [ ] Create personal portfolio website
+- [ ] Build 5+ intermediate projects with APIs
+- [ ] Learn database integration (SQLite/PostgreSQL)
+- [ ] Explore web frameworks (Flask/Django basics)
 
-### **Q2-Q4 2026 (Apr - Dec)**
-- [ ] Build 5+ intermediate/advanced projects
-- [ ] Contribute to open source projects
+### **Q3 2026 (Jul - Sep)** — Advanced Projects
+- [ ] Build 3 advanced full-stack projects
+- [ ] Implement authentication and security
+- [ ] Deploy projects to cloud platforms
+- [ ] Contribute to open source
+
+### **Q4 2026 (Oct - Dec)** — Career Ready
+- [ ] Complete SoftUni Python education program
+- [ ] Build comprehensive portfolio website
 - [ ] Master data structures & algorithms
-- [ ] Complete SoftUni program
 - [ ] **Land first junior developer position** 🎯
 
 ---
@@ -408,7 +411,7 @@ Have questions, suggestions, or feedback?
 
 ---
 
-**Last Updated:** November 29, 2025
+**Last Updated:** February 02, 2026
 
 **[⬆ Back to Top](#-small-python-projects)**
 
